@@ -1,0 +1,22 @@
+_repo: Pocahontas--13-A-Poem_9985
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Castleman, Virginia Carter
+    gutenberg_agent_id: '3232'
+    url: http://www.gutenberg.org/2009/agents/3232
+description: ''
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Pocahontas, -1617 -- Poetry'
+- GITenberg
+title: 'Pocahontas: A Poem'
+url: http://www.gutenberg.org/ebooks/9985
